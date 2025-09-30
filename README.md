@@ -6,6 +6,11 @@
 With this method, you can directly access **Longhorn replicas** on the node, expose them as block devices using **Longhorn Engine**, mount them, and recover your data (files or databases).
 
 ---
+## 📂 Additional
+- [فارسی](README.fa.md)
+- [English](README.md)
+- 
+---
 
 ## ✅ Tested on
 
