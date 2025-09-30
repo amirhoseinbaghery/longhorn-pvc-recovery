@@ -16,7 +16,7 @@
 
 ## 🧪 تست‌شده روی
 
-* **سیستم‌عامل:** Debian
+* **OS:** Debian
 * **Runtime:** containerd + `nerdctl` (نیازمند privileged)
 * **Longhorn Engine:** v1.5.3
 * **فایل‌سیستم‌ها:** ext4 و xfs (برای xfs از `-o nouuid` استفاده می‌شود)
