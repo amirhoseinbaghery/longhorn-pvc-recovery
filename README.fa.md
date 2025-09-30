@@ -225,7 +225,3 @@ sudo ./auto-recover-longhorn.sh \
   --pvc-path /var/lib/longhorn/replicas/pvc-1304f0e2-...-e3f64f05 \
   --engine-version v1.5.3
 ```
-
----
-
-می‌خوای من همین ترجمه رو در قالب یک فایل Markdown آماده کنم (با تیترها و بلوک‌های کد تمیز) تا مستقیم جایگزین README فارسی بشه؟
