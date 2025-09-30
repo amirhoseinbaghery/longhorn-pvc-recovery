@@ -1,4 +1,6 @@
-# README — English
+# 🐂 Longhorn PVC Recovery Guide
+
+## README — English
 
 ## Recovering Data from Longhorn PVCs when Kubernetes/etcd is Down
 
@@ -13,7 +15,7 @@ With this method, you can directly access **Longhorn replicas** on the node, exp
 
 ## ✅ Tested on
 
-* **OS:** Ubuntu 20.04 / 22.04
+* **OS:** Debian
 * **Runtime:** containerd with `nerdctl` (works with Docker too)
 * **Longhorn Engine:** v1.5.3
 * **Filesystems:** ext4 and xfs (script handles `xfs` with `-o nouuid`)
