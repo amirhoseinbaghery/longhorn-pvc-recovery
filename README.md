@@ -1,6 +1,4 @@
----
-
-# README — 🇬🇧 English
+# README — English
 
 ## Recovering Data from Longhorn PVCs when Kubernetes/etcd is Down
 
