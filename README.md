@@ -7,9 +7,8 @@ With this method, you can directly access **Longhorn replicas** on the node, exp
 
 ---
 ## 📂 Additional
-- [فارسی](README.fa.md)
+- [Persian](README.fa.md)
 - [English](README.md)
-- 
 ---
 
 ## ✅ Tested on
